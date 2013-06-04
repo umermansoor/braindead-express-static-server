@@ -1,8 +1,8 @@
-## braindead-express-static-server
+# braindead-express-static-server
 
 A simple static file server using express.js. The whole purpose of this stupid simple program to is to serve static files from a folder.
 
-### Installation:
+## Installation:
 
 If you don't already have express.js installed, then run the following command in the directory where you downloaded the source:
 
