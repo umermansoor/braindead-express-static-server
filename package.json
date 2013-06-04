@@ -7,6 +7,16 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/umermansoor/braindead-express-static-server"
+  },
+	"keywords": [
+    "expressjs",
+    "http",
+    "server",
+    "static"
+  ],
 	"dependencies": {
 		"express": ">=3.0.0" 
 	},
