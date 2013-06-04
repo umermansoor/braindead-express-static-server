@@ -2,6 +2,16 @@
 
 A simple static file server using express.js. The whole purpose of this stupid simple program to is to serve static files from a folder.
 
+### Installation:
+
+If you don't already have express.js installed, then run the following command in the directory where you downloaded the source:
+
+`$ npm install`
+
+This will install the required dependencies, in this case, express.
+
+## Usage:
+
 To use this program, put static
 files in the `public/` folder. Then start the server using the following command:
 
